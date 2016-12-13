@@ -17,8 +17,8 @@ The sample uses [ListFragment][2] from the v4 support library to display the lis
 Pre-requisites
 --------------
 
-- Android SDK 24
-- Android Build Tools v24.0.1
+- Android SDK 25
+- Android Build Tools v25.0.2
 - Android Support Repository
 
 Screenshots
