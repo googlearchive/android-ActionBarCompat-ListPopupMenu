@@ -17,7 +17,7 @@
 package com.example.android.actionbarcompat.listpopupmenu;
 
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 
 /**
  * This sample shows you how to use {@link android.support.v7.widget.PopupMenu PopupMenu} from
@@ -25,10 +25,10 @@ import android.support.v7.app.ActionBarActivity;
  * <p>
  * The interesting part of this sample is in {@link PopupListFragment}.
  *
- * This Activity extends from {@link ActionBarActivity}, which provides all of the function
+ * This Activity extends from {@link AppCompatActivity}, which provides all of the function
  * necessary to display a compatible Action Bar on devices running Android v2.1+.
  */
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
